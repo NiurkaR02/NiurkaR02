@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NiurkaR02
+- 🌱 I’m currently learning React JS
+- 📫 How to reach me ing.niurkarosas@gmail.com
