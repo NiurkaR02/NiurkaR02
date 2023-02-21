@@ -1,4 +1,5 @@
-- 👋 Hola, Soy @NiurkaR02
+<h2 align="center"> <pre> 👋 Hola, Soy @NiurkaR02 </pre></h2>
+
 - ⚒️ Javascript / TypeScript / React / SCSS
 - 🌱 Aprendiendo sobre Angular
 - 📫 Cómo encontrarme? ing.niurkarosas@gmail.com
